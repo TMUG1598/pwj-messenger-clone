@@ -11,5 +11,8 @@
   "dependencies": {
     "socket.io": "*",
     "express": "*"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
